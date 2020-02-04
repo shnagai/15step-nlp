@@ -1,0 +1,10 @@
+numpy==1.15.0
+scipy==1.1.0
+pandas==0.23.3
+scikit-learn==0.19.2
+mecab-python3==0.996.2
+neologdn==0.3.2
+tensorflow==1.14.0
+Keras==2.1.6
+gensim==3.5.0
+hyperopt==0.1.1
